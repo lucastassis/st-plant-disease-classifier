@@ -4,7 +4,7 @@
 
 This is a simple app project built with [streamlit](https://streamlit.io/) for plant disease classification. In this work, I used a subset of the [PlantVillage dataset](https://www.kaggle.com/emmarex/plantdisease) containing 8 classes (diseases + healthy) of two crops (apple and grape). I used the PyTorch's MobileNetv2 implementation for the classification task. 
 
-<img src="/home/lucas/Documents/codes/st-plant-disease-classifier/imgs/app.gif" style="zoom: 50%;" />
+<img src="imgs/app.gif" style="zoom: 50%;" />
 
 The code is organized as follows:
 
